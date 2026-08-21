@@ -1,30 +1,38 @@
 # Sukoon
 
-Sukoon is a sustainable brand that provides natural and safe products designed to support the daily needs of women and children.
+Sukoon is a modern web project focused on providing natural and safe products for women and children.
 
 ## About the Project
 
-The project focuses on creating practical and safe solutions such as pain relief patches, natural sanitary pads, baby diapers, and hand-care gloves.
+Sukoon offers practical and safe solutions for everyday needs, including pain relief patches, natural sanitary pads, baby diapers, and hand-care gloves.
 
-Sukoon aims to transform natural resources into useful products that provide real value to every home while supporting women, helping farmers, and reducing agricultural waste.
+The website presents the brand, its products, and its vision of creating sustainable solutions that combine comfort, safety, and environmental responsibility.
 
-## Our Goal
+## Our Mission
 
-To create smart solutions that combine:
-
-* Comfort
-* Safety
-* Sustainability
-* Natural resources
-* Social impact
+Sukoon aims to transform natural resources into useful products that provide real value to every home, while supporting women, helping farmers, and reducing agricultural waste.
 
 ## Products
 
-* Natural pain relief patches
-* Natural sanitary pads
-* Baby diapers
-* Hand-care gloves
+* Natural Pain Relief Patches
+* Natural Sanitary Pads
+* Baby Diapers
+* Hand-Care Gloves
 
-## Vision
+## Key Features
 
-Sukoon aims to become an essential part of every home by providing safe, sustainable, and meaningful everyday solutions.
+* Clean and user-friendly web interface
+* Product showcase
+* Information about the brand and its mission
+* Focus on sustainability and natural products
+* Responsive web design
+
+## Technologies
+
+* HTML
+* CSS
+* JavaScript
+
+## Project Goal
+
+The goal of Sukoon is to create a simple and engaging web experience that introduces sustainable products and highlights their social and environmental impact.
